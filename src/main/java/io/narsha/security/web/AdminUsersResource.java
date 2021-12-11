@@ -105,7 +105,6 @@ public class AdminUsersResource {
     @GET
     @Path("/groups/{id}/users")
     public List<UserDTO> groupUsers(@PathParam("id") UUID id) {
-        var aa = UserDTO.builder();
         return adminKeycloakClient.groups().group(id.toString()).members().stream().map(
                 user -> {
                     var builder = UserDTO.builder();
@@ -115,6 +114,7 @@ public class AdminUsersResource {
         ).collect(Collectors.toList());
     }
 
+    /* move to mapstruct */
     private void applyUserRepresentation(UserRepresentation user, UserDTO.UserDTOBuilder builder) {
         builder.id(user.getId())
                 .username(user.getUsername())
