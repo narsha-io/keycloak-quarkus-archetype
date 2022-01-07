@@ -19,7 +19,6 @@
     <lombok.version>1.18.22</lombok.version>
     <sonar.organization>narsha-io</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
   </properties>
   <dependencyManagement>
     <dependencies>
