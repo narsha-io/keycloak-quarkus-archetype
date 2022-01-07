@@ -1,3 +1,13 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=narsha-io_keycloak-quarkus-archetype&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=narsha-io_keycloak-quarkus-archetype)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=narsha-io_keycloak-quarkus-archetype&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=narsha-io_keycloak-quarkus-archetype)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=narsha-io_keycloak-quarkus-archetype&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=narsha-io_keycloak-quarkus-archetype)
+
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=narsha-io_keycloak-quarkus-archetype&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=narsha-io_keycloak-quarkus-archetype)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=narsha-io_keycloak-quarkus-archetype&metric=bugs)](https://sonarcloud.io/summary/new_code?id=narsha-io_keycloak-quarkus-archetype)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=narsha-io_keycloak-quarkus-archetype&metric=coverage)](https://sonarcloud.io/summary/new_code?id=narsha-io_keycloak-quarkus-archetype)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=narsha-io_keycloak-quarkus-archetype&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=narsha-io_keycloak-quarkus-archetype)
+
 # keycloak-quarkus-archetype Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
